@@ -27,7 +27,7 @@ Run it as root user
 sudo python3 docker_setup.py
 ```
 
-> After installation, log out & back in if you were added to the Docker group… you know the drill 😉
+> After installation, log out & back in if you were added to the Docker group… you know the drill
 > 
 
 **For Windows (Administrator):**
