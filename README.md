@@ -39,7 +39,7 @@ python docker_setup.py
 
 ```
 
-> Installs Docker Desktop via winget. You might need a reboot… and WSL2 enabled… wink wink
+> Installs Docker Desktop via winget. You might need a reboot… and WSL2 enabled…
 > 
 
 ### 3) Jump into the container
